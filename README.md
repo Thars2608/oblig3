@@ -7,6 +7,8 @@ GitHub brukernavn: Thars2608
 
 GitHub repo URL: https://github.com/Thars2608/oblig3
 
+Youtube video URL: https://youtu.be/uptfWC1q6qI
+
 Fullt navn: Tharshvan Jeyakumar
 
 Kort beskrivelse av applikasjon(5-10 setninger):
@@ -18,3 +20,5 @@ Det blir brukt 3 java klasser for å lagre billettene i database.
 Det blir lagd en billett tabell i schema.sql som inneholder billettene.
 Ved hjelp av javascript funksjonene kan vi både sende billetter til databasen og slette dem.
 Det blir også brukt Springboot for å style nettsiden og jquery for javascript.
+Det var noe feil med min localhost:8080 så jeg brukte localhost:8800 istedenfor.
+Det er også lagt inn en youtube video der jeg viser hvordan nettsiden kjører.
